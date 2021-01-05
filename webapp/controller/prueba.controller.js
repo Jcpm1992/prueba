@@ -8,7 +8,7 @@ sap.ui.define([
 			// la funcion numero 1 y la funcion numero 3
 		},
 		prueba1: function () {
-
+// aca no hace nada 
 		},
 		prueba2: function () {
 

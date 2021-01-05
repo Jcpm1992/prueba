@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("prueba.prueba.controller.prueba", {
 		onInit: function () {
-prueba n2
+prueba de cambios
 		}
 	});
 });

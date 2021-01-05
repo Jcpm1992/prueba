@@ -11,10 +11,10 @@ sap.ui.define([
 // aca no hace nada 
 		},
 		prueba2: function () {
-// aca  estamos probando la 2
+
 		},
 		prueba3: function () {
-
+// aca  estamos probando la 3
 		}
 	});
 });
